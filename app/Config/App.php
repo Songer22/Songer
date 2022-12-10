@@ -25,7 +25,7 @@ class App extends BaseConfig
      * @var string
      */
     // public $baseURL = 'http://localhost:8080/';
-    public $baseURL = 'https://gerson-silguero.netlify.app';
+    public $baseURL = 'https://gerson-silguero.netlify.app/';
 
     /**
      * --------------------------------------------------------------------------
